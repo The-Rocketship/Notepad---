@@ -6,7 +6,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-007ACC?logo=windows)
 ![Theme](https://img.shields.io/badge/Theme-Native%20Dark-181818)
 
-![Notepad--- Preview](preview.png?raw=true)
+![Notepad--- Preview](Preview.png?raw=true)
 
 ---
 
