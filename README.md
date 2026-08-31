@@ -2,6 +2,8 @@
 
 **Notepad+++** is a lightweight, zero-dependency, native tabbed text editor for Windows written entirely in **PowerShell** and **WPF (Windows Presentation Foundation)**. It offers a fast, portable alternative to heavy text editors without requiring any installation or administrator privileges.
 
+![Notepad+++ Preview](preview.png)
+
 ---
 
 ## 🌟 Key Features
